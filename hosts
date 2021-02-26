@@ -1,6 +1,7 @@
 
 [mch_windows_servers]
-SVTTRM12 ansible_host=172.24.30.221 
+SVTTRM12 ansible_host=172.24.30.221
+SVTWEB16 ansible_host=172.24.92.40
 
 [mch_linux_servers]
 SVPDWH01 ansible_host=172.24.30.35
