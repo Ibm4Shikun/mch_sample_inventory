@@ -2,9 +2,13 @@
 [all:vars]
 #ansible_ssh_private_key_file=/home/student2/.ssh/aws-private.pem
 #[routers:children]
-cisco
+#cisco
+mch_inventory
 
-[cisco]
+[mch_inventory]
+#rtr1 ansible_host=35.182.253.237
+
+#[cisco]
 #rtr1 ansible_host=35.182.253.237 private_ip=172.16.246.179
 #rtr2 ansible_host=35.183.148.238 private_ip=172.17.148.190
 #rtr3 ansible_host=35.183.120.103 private_ip=172.16.172.246
