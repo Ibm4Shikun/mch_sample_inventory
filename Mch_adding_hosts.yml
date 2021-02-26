@@ -11,7 +11,7 @@
     	    inventory: "mch_inventory"
     	    tower_username: alexzmochgovil
     	    tower_password: Misrad4Shikun2021!
-    	    tower_host: https://ansible-tower.ocp1.sr1.eu1.sp.ibm.local 
+    	    tower_host: https://ansible-tower.ocp1.sr1.eu1.sp.ibm.local/ 
     	    variables:
       	      #ansible_network_os: "{{ansible_network_os}}"
       	      #ansible_host: "{{ansiblele_host}}"
