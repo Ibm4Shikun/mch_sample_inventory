@@ -1,6 +1,5 @@
-
-[mch_inventory]
-SVTTRM12 ansible_host=172.24.30.221
+[all:vars]
+mch_windows_servers
 
 [mch_windows_servers]
 SVTTRM12 ansible_host=172.24.30.221
