@@ -1,6 +1,6 @@
 
 [mch_windows_servers]
-SVTTRM12 ansible_host=172.24.30.221 
+SVTTRM12 ansible_host=172.24.30.221 inventory_description="test"
 SVTWEB16 ansible_host=172.24.92.40
 
 [mch_linux_servers]
