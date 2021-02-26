@@ -7,6 +7,7 @@ mch_inventory
 
 [mch_inventory]
 #rtr1 ansible_host=35.182.253.237
+SVTTRM12 ansible_host=172.24.30.221
 
 #[cisco]
 #rtr1 ansible_host=35.182.253.237 private_ip=172.16.246.179
