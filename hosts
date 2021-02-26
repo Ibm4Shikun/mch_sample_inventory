@@ -3,4 +3,7 @@ mch_inventory
 
 
 [mch_inventory]
-SVTTRM12 ansible_host=172.24.30.221 ansible_group: mch_windows_servers
+SVTTRM12 ansible_host=172.24.30.221 
+
+[mch_windows_servers]
+SVTTRM12
