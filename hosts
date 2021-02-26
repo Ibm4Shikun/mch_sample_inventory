@@ -1,6 +1,5 @@
 [all:vars]
 [mch_inventory:children]
-mch_inventory
 mch_windows_servers
 
 
