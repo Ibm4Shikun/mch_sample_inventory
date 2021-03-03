@@ -4,7 +4,7 @@ SVTTRM12 ansible_host=172.24.30.221
 SVTWEB16 ansible_host=172.24.92.40
 SVPFIL01 ansible_host=172.24.132.41
 SVPIBO01 ansible_host=172.24.132.91
-SVPIBO01 ansible_host=172.24.132.90
+SVDIBO01 ansible_host=172.24.132.90
 
 [mch_linux_servers]
 SVPDWH01 ansible_host=172.24.30.35
