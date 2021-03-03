@@ -7,6 +7,9 @@ SVPIBO01 ansible_host=172.24.132.91
 SVDIBO01 ansible_host=172.24.132.90
 SVPFIL03 ansible_host=172.24.132.43
 SHPHOS50 ansible_host=172.24.130.50
+SHPHOS51 ansible_host=172.24.130.151
+SHPHOS61 ansible_host=172.24.130.161
+SHPHOS63 ansible_host=172.24.130.163
 
 
 [mch_linux_servers]
