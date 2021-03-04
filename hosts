@@ -12,6 +12,12 @@ SHPHOS61 ansible_host=172.24.130.161
 SHPHOS63 ansible_host=172.24.130.163
 SHPHOS62 ansible_host=172.24.130.162
 SVDSQL30 ansible_host=172.24.132.107
+SVDSPS30 ansible_host=172.24.167.47
+SVDSQL12 ansible_host=172.24.132.108
+SHPHOS30 ansible_host=172.24.130.132
+
+
+
 
 
 
