@@ -43,12 +43,13 @@ SVPTRM12 ansible_host=172.24.128.160
 SVPSQL51 ansible_host=172.24.132.231
 SVPSQL50 ansible_host=172.24.132.230
 SVDWEB06 ansible_host=172.24.132.119
-
-
-
-
-
-
+SVPWEB10 ansible_host=172.24.132.49
+SVTSQL20 ansible_host=172.24.167.18
+SVTSQL21 ansible_host=172.24.132.239
+SVPAPL50 ansible_host=172.24.132.234
+SVPWEB50 ansible_host=172.24.167.5
+SVPAPL51 ansible_host=172.24.132.235
+SVPWEB51 ansible_host=172.24.132.233
 
 
 
