@@ -80,6 +80,16 @@ SVPAPL60 ansible_host=172.24.133.61
 SVPWEB60 ansible_host=172.24.133.60
 SVPSMC01 ansible_host=172.24.132.238
 SVPSMC02 ansible_host=172.24.132.241
+SVPPBI01 ansible_host=172.24.132.245
+SVDTFS17 ansible_host=172.24.133.73
+SVDTFS18 ansible_host=172.24.133.74
+SHPMON01 ansible_host=172.24.130.40
+SVPTRM16 ansible_host=172.24.133.116
+SVPTRM15 ansible_host=172.24.133.115
+SVPTRM14 ansible_host=172.24.133.114
+SVTEMR01 ansible_host=172.24.133.92
+SVTIWA01 ansible_host=172.24.133.93
+SVPSOC02 ansible_host=172.24.133.84
 
 
 
