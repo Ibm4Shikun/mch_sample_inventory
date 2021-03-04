@@ -27,6 +27,9 @@ SVDFIL03 ansible_host=172.24.132.118
 SVTSPS13 ansible_host=172.24.132.221
 SVPCYB12 ansible_host=172.24.132.140
 SVPGIS13 ansible_host=172.24.30.113
+SHPHOS60 ansible_host=172.24.130.160
+SVPSQL13 ansible_host=172.24.132.137
+SVPGIS15 ansible_host=172.24.30.115
 
 
 
