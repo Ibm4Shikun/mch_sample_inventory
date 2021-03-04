@@ -120,6 +120,16 @@ SVPCOM01 ansible_host=172.24.90.220
 SVPITM01 ansible_host=172.24.30.6
 SVPITM02 ansible_host=172.24.30.7
 SVPCNM01 ansible_host=172.24.30.20
+SVPCRM01 ansible_host=172.24.30.12
+SVPCRM02 ansible_host=172.24.30.13
+SVDCRM01 ansible_host=172.24.91.12
+SVPADF01 ansible_host=172.24.30.14
+SVDCRS01 ansible_host=172.24.90.224
+SVPCRS01 ansible_host=172.24.30.224
+SVPMON19 ansible_host=172.24.30.39
+SVDSQL18 ansible_host=172.24.91.8
+SVPWEB16 ansible_host=172.24.30.40
+SVTWEB16 ansible_host=172.24.92.40
 
 
 
