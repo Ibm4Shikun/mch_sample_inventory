@@ -140,6 +140,17 @@ SVPEXC16 ansible_host=172.24.30.116
 SVPEXC17 ansible_host=172.24.30.117
 SVPEXC18 ansible_host=172.24.30.118
 SHPCOM03 ansible_host=172.24.30.3
+SVPCOM02 ansible_host=172.24.30.5
+SVPAVS01 ansible_host=172.24.30.29
+SVPWEB85 ansible_host=172.24.30.49
+SVPWEB88 ansible_host=172.24.30.55
+SVPAPL88 ansible_host=172.24.30.56
+SVPAPL85 ansible_host=172.24.30.50
+SVPAPL87 ansible_host=172.24.30.54
+SVPWEB14 ansible_host=172.24.30.232
+SVDWEB14 ansible_host=172.24.90.223
+SVPWEB86 ansible_host=172.24.30.51
+SVPAPL86 ansible_host=172.24.30.52
 
 
 
