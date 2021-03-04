@@ -37,6 +37,19 @@ SVPAPL20 ansible_host=172.24.132.194
 SVPDOC20 ansible_host=172.24.132.195
 SVDSQL14 ansible_host=172.24.132.114
 SHPHOS47 ansible_host=172.24.130.153
+SHPHOS48 ansible_host=172.24.130.154
+SVPSQL14 ansible_host=172.24.132.46
+SVPTRM12 ansible_host=172.24.128.160
+SVPSQL51 ansible_host=172.24.132.231
+SVPSQL50 ansible_host=172.24.132.230
+SVDWEB06 ansible_host=172.24.132.119
+
+
+
+
+
+
+
 
 
 
