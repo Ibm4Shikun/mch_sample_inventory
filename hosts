@@ -100,6 +100,17 @@ SVTDOC67 ansible_host=172.24.167.17
 SVPSPS16 ansible_host=172.24.133.75
 SVTSQL72 ansible_host=172.24.133.1
 SVPEMR01 ansible_host=172.24.132.205
+SVPIWA01 ansible_host=172.24.132.204
+SVDWEB16 ansible_host=172.24.133.71
+SVPSQL18 ansible_host=172.24.167.2
+SVDSPS16 ansible_host=172.24.132.73
+SVTAPL75 ansible_host=172.24.167.12
+SVTSQL75 ansible_host=172.24.165.38
+SVTAPL76 ansible_host=172.24.167.14
+SVTSQL76 ansible_host=172.24.92.220
+SVTDOC77 ansible_host=172.24.30.233
+SVPSPS17 ansible_host=72.24.133.76
+
 
 
 
