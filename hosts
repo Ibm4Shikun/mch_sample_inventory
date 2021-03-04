@@ -17,6 +17,11 @@ SVDSQL12 ansible_host=172.24.132.108
 SHPHOS30 ansible_host=172.24.130.132
 SVPDHC01 ansible_host=172.24.132.17
 SVPDHC02 ansible_host=172.24.132.18
+SVPSQL12 ansible_host=172.24.132.172
+SVPSQL30 ansible_host=172.24.132.130
+SVPSPS13 ansible_host=172.24.132.113
+SVTTRM12 ansible_host=172.24.30.221
+SVPSCM12 ansible_host=172.24.132.22
 
 
 
