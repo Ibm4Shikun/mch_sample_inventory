@@ -210,4 +210,9 @@ SVPDWH01 ansible_host=172.24.30.35
 SVPDSH01 ansible_host=172.24.30.37
 SVPOMN01 ansible_host=172.24.30.36
 SVPTNM01 ansible_host=172.24.30.38
+SVPANS02 ansible_host=172.24.96.1
+SVPANS03 ansible_host=172.24.30.187
+SVPATE06 ansible_host=172.24.30.197
+SVDPGS12 ansible_host=172.24.91.29
+SVDSON01 ansible_host=172.24.91.64
 
