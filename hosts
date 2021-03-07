@@ -189,6 +189,12 @@ SVPTRM19 ansible_host=172.24.133.119
 SVDTFS19 ansible_host=172.24.91.39
 SVDAGT19 ansible_host=172.24.91.40
 SVPKMS19 ansible_host=172.24.30.145
+SVPADF02 ansible_host=172.24.128.50
+SVPTRM20 ansible_host=172.24.133.120
+SVPTRM21 ansible_host=172.24.133.121
+SVPTRM22 ansible_host=172.24.133.122
+SVPFIL31 ansible_host=172.24.30.91
+SVDAGT20 ansible_host=172.24.91.41
 
 
 
