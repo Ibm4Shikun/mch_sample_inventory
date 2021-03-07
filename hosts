@@ -161,6 +161,15 @@ SVPADA01 ansible_host=172.24.30.100
 SVPPTA01 ansible_host=172.24.30.101
 SVPPTA02 ansible_host=172.24.30.102
 SVPPRE01 ansible_host=172.24.30.19
+SVPAVS02 ansible_host=172.24.30.72
+SVPAVS03 ansible_host=172.24.30.73
+SVPBOI16 ansible_host=172.24.30.76
+SVPIAG01 ansible_host=172.24.30.105
+SVPIAG02 ansible_host=172.24.30.106
+SVPIDB01 ansible_host=172.24.30.107
+SVPIDB02 ansible_host=172.24.30.108
+SVTSQL06 ansible_host=172.24.91.220
+SVTSQL07 ansible_host=172.24.91.221
 
 
 
