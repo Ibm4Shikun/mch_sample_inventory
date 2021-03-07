@@ -180,6 +180,15 @@ SVPRCB02 ansible_host=172.24.30.135
 SVPWAP01 ansible_host=172.24.30.138
 SVPWAP02 ansible_host=172.24.30.139
 SVPRSH03 ansible_host=172.24.30.132
+SVPTRM17 ansible_host=172.24.133.117
+SVPTRM18 ansible_host=172.24.133.118
+SVPQNP01 ansible_host=172.24.30.95
+SVDQNP01 ansible_host=172.24.91.95
+SVPRSH04 ansible_host=172.24.30.133
+SVPTRM19 ansible_host=172.24.133.119
+SVDTFS19 ansible_host=172.24.91.39
+SVDAGT19 ansible_host=172.24.91.40
+SVPKMS19 ansible_host=172.24.30.145
 
 
 
