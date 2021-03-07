@@ -151,6 +151,16 @@ SVPWEB14 ansible_host=172.24.30.232
 SVDWEB14 ansible_host=172.24.90.223
 SVPWEB86 ansible_host=172.24.30.51
 SVPAPL86 ansible_host=172.24.30.52
+SVPWEB87 ansible_host=172.24.30.53
+SVPWEB80 ansible_host=172.24.30.45
+SVTWEB14 ansible_host=172.24.92.223
+SVPSQL80 ansible_host=172.24.30.80
+SVPSQL81 ansible_host=172.24.30.81
+SVDTFS16 ansible_host=172.24.91.30
+SVPADA01 ansible_host=172.24.30.100
+SVPPTA01 ansible_host=172.24.30.101
+SVPPTA02 ansible_host=172.24.30.102
+SVPPRE01 ansible_host=172.24.30.19
 
 
 
